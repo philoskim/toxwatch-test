@@ -28,6 +28,9 @@
 
 * 아래에 링크된 앱 실행 파일을 클릭하면, 다운로드가 진행된 후 자동으로 앱을 설치합니다.
 
+* 다음과 같은 내용의 페이지가 뜨는 경우에는, 그 위의 `View raw` 텍스트를 클릭하면 다운로드가 진행됩니다.
+** `(Sorry about that, but we cant' show files that are this big right now.)` 
+
 * [엡스] 아이콘을 선택해 들어가서 `Tox Watch` 앱 아이콘을 찾아 실행해 줍니다.
 
 

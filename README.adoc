@@ -80,7 +80,7 @@ image::img/toxwatch.jpg[width=300]
 
 == 작업 내역
 
-=== toxwatch-20201109.apk
+=== version 0.1 : 20201109 
 
 * [제품정보 입력] 화면과 [광고문구정보 입력] 화면에 [제품사진 리스트]와 [광고문구사진
   리스트] 메뉴 추가
@@ -92,7 +92,7 @@ image::img/toxwatch.jpg[width=300]
 
 
 
-=== toxwatch-20201030.apk
+=== version 0.2 : 20201030
 
 ==== 테스트시 유의 사항
 

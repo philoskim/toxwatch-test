@@ -59,7 +59,7 @@ image::img/allow.jpg[width=300]
 === 다운로드
 
 [[toxwatch-download]]
-* link:build/toxwatch-20201030.apk[toxwatch-20201109.apk] (14.0MB)
+* link:build/toxwatch-20201109.apk[toxwatch-20201109.apk] (14.0MB)
 
 * 다음과 같은 내용의 페이지가 뜨는 경우에는, 그 위의 `Download` 버튼을 클릭합니다.
 +

@@ -59,7 +59,7 @@ image::img/allow.jpg[width=300]
 === 다운로드
 
 [[toxwatch-download]]
-* *다운로드 링크* : link:build/toxwatch-0.4.1.apk[toxwatch-0.4.1.apk] (10.6MB)
+* *다운로드 링크* : link:build/toxwatch-0.4.2.apk[toxwatch-0.4.2.apk] (10.6MB)
 
 * 다음과 같은 내용의 페이지가 뜨는 경우에는, 그 위의 `Download` 버튼을 클릭합니다.
 +
@@ -79,6 +79,13 @@ image::img/toxwatch.jpg[width=300]
 
 
 == 작업 내역
+
+=== version 0.4.2 : 20201201
+
+* [제품정보 입력] 화면과 [광고문구 정보 입력] 화면에서 백 버튼 눌러 이전 단계로 이동할 떄
+  현 단계에서 작업한 모든 내용이 사라질 수 있다는 경고문구 대화상자 보이기 추가
+* [제품사진 리스트]와 [광고문구사진 리스트] 화면의 타이틀 중앙 정렬
+
 
 === version 0.4.1 : 20201201
 

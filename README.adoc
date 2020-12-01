@@ -59,7 +59,7 @@ image::img/allow.jpg[width=300]
 === 다운로드
 
 [[toxwatch-download]]
-* *다운로드 링크* : link:build/toxwatch-0.3.2.apk[toxwatch-0.3.2.apk] (10.6MB)
+* *다운로드 링크* : link:build/toxwatch-0.4.apk[toxwatch-0.4.apk] (10.6MB)
 
 * 다음과 같은 내용의 페이지가 뜨는 경우에는, 그 위의 `Download` 버튼을 클릭합니다.
 +
@@ -79,6 +79,12 @@ image::img/toxwatch.jpg[width=300]
 
 
 == 작업 내역
+
+=== version 0.4 : 20201201
+
+* [제품정보] 입력 화면의 [제품 구분 1] 항목에 [살생물 제품]과 [화장품] 항목 추가
+* [제품정보] 입력 화면에 [전면 사진]과 [후면 사진] 항목 추가
+
 
 === version 0.3.1 : 20201111
 

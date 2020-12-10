@@ -59,7 +59,7 @@ image::img/allow.jpg[width=300]
 === 다운로드
 
 [[toxwatch-download]]
-* *다운로드 링크* : link:build/toxwatch-1.0.apk[toxwatch-1.0.apk] (10.6MB)
+* *다운로드 링크* : link:build/toxwatch-1.1.apk[toxwatch-1.1.apk] (10.6MB)
 
 * 다음과 같은 내용의 페이지가 뜨는 경우에는, 그 위의 `Download` 버튼을 클릭합니다.
 +
@@ -79,6 +79,15 @@ image::img/toxwatch.jpg[width=300]
 
 
 == 작업 내역
+
+=== version 1.1 : 20201210
+
+* [제품정보 입력] 화면
+** [제품 상세구분] 항목 제거
+** [회사 구분], [회사명] 항목 추가
+** [회사구분], [연락처] 항목을 필수 입력항목으로 변경
+** [제품 구분 2]의 항목들을 [제품 구분 1]의 선택 항목에 따라 연동해 보여주기
+
 
 === version 1.0 : 20201202
 

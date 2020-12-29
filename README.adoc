@@ -59,7 +59,7 @@ image::img/allow.jpg[width=300]
 === 다운로드
 
 [[toxwatch-download]]
-* *다운로드 링크* : link:build/toxwatch-1.6.apk[toxwatch-1.6.apk] (10.6MB)
+* *다운로드 링크* : link:build/toxwatch-1.7.apk[toxwatch-1.7.apk] (10.6MB)
 
 * 다음과 같은 내용의 페이지가 뜨는 경우에는, 그 위의 `Download` 버튼을 클릭합니다.
 +
@@ -79,6 +79,12 @@ image::img/toxwatch.jpg[width=300]
 
 
 == 작업 내역
+
+=== version 1.7 : 20201229
+
+* [장소] 입력 화면
+** 화면 하단에 'My device id' 정보 표시
+
 
 === version 1.6 : 20201222
 
